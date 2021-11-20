@@ -7,6 +7,8 @@ Make sure that Node js and MOngodb installed in your local system
 
 After clonign this project run the npm install/npm i
 
+.env file is gitignored. So please create .env file in the root directory and add this line MONGO_DB_URL=mongodb://localhost:27017/whiterabbit and save file
+
 Run Project
 ----------
 You can start the project by running the npm run serve or nodemon start
