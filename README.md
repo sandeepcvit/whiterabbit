@@ -1,9 +1,9 @@
 # whiterabbit
 Note
 ----------
-This project contain only the API file save, list and detail of user information
+This project contain only the API file for save, list and detail of user information
 
-Make sure Node js and MOngodb installed in your local system
+Make sure that Node js and MOngodb installed in your local system
 
 After clonign this project run the npm install/npm i
 
